@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlos-edulira
-- 👀 I’m interested in ... Data Science / Data Analytics / Python
+- 👀 I’m interested in ... Data Science / Surf Forecast & Reports / Big Data / SAP 
 - 🌱 I’m currently learning ... Data Science / Python
 
 <!---
